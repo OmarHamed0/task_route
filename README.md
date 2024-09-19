@@ -22,4 +22,4 @@ For any questions, please contact [your email].
 - Repository pattern is used for data management.
 
 ## Submission
-After finishing the task, send an email to `elevatetechflutterteam@gmail.com` with the subject `FlutterTaskCycle1{your name}`
+After finishing the task, send an email to `elevatetechflutterteam@gmail.com` with the subject `FlutterTaskCycle1("omarmakram421@gmial.com)`
