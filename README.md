@@ -21,5 +21,3 @@ For any questions, please contact [your email].
 - Dependency Injection is implemented using `injectable` and `get_it`.
 - Repository pattern is used for data management.
 
-## Submission
-After finishing the task, send an email to `elevatetechflutterteam@gmail.com` with the subject `FlutterTaskCycle1("omarmakram421@gmial.com)`
